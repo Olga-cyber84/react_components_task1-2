@@ -14,4 +14,4 @@ React-компонент ShopItemClass (class-based компонент), с по
 Проект реализован с помощью create-react-app.
 Задействован prop-types.
 
-css для стилизации взять [отсюда](https://github.com/netology-code/ra16-homeworks/tree/master/components/store-class)
+css для стилизации взят [отсюда](https://github.com/netology-code/ra16-homeworks/tree/master/components/store-class)
